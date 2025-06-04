@@ -38,3 +38,10 @@ Let's unleash American ingenuity to create a future where our AI capabilities ar
 ---
 
 This site is open source. Improve this page. This has been a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
+
+
+### Learn More:
+
+* **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
+* **This: Project Details:** [Detailed Introduction to DARE](README.md)
+* **Read the Grassroots summary:** [Grassroots](Grassroots.md)
