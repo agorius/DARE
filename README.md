@@ -1,3 +1,4 @@
+![DARE banner](img_DARE_1.png)
 ## DARE: Powering America's Future, Built by American Hands
 
 ### Headline: "America's Next Tech Boom: Built Here, Powered for Good!"
