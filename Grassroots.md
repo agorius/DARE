@@ -33,4 +33,7 @@ This is our chance to turn a monumental challenge into a monumental triumph. To 
 
 ---
 
-This site is open source. Improve this page.
+### Learn More:
+
+* **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.html)
+* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](README.html)
