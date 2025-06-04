@@ -31,4 +31,4 @@ This site is open source. Improve this page. This has been a collaboration betwe
 
 * **This Executive Summary:** [DARE Executive Summary](ExecSummary.md)
 * **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](DARE_Intro.md)
-* **Read the Grassroots summary:** [Grassroots](Grassroots.md)
+* **Read the Grassroots summary:** [Grassroots](README.md)
