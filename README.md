@@ -22,7 +22,7 @@ These units are designed to be compact, housed within combined shipping containe
 
 ### Open Source for Accelerated Innovation and Compatibility:
 
-The DARE project is fundamentally open source. Our specifications, designs, and methodologies are transparent and publicly accessible. This commitment to open source is critical because it fosters a collaborative environment where even competitive entities can innovate upon the core specifications while ensuring compatibility. This shared approach accelerates progress for the entire industry, encouraging diverse solutions and ultimately strengthening America's energy and AI infrastructure through collective ingenuity.
+The DARE project is fundamentally open source. Specifications, designs, and methodologies are transparent and publicly accessible. This commitment to open source is critical because it fosters a collaborative environment where even competitive entities can innovate upon the core specifications while ensuring compatibility. This shared approach accelerates progress for the entire industry, encouraging diverse solutions and ultimately strengthening America's energy and AI infrastructure through collective ingenuity.
 
 ### America's Moment for Global Leadership:
 
