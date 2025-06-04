@@ -34,7 +34,7 @@ This is our chance to turn a monumental challenge into a monumental triumph. To 
 
 ---
 
-This site is open source. Improve this page. This has been a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
+This is currently a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
 
 ### Learn More:
 
