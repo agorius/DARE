@@ -36,6 +36,9 @@ This is our chance to turn a monumental challenge into a monumental triumph. To 
 
 This is currently a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
 
+### About me: 
+Its not about me. Its about America. I'm just the retired High-Tech guy whose brain won't shut off. I enjoy technology, cars, and solving problems. Oh, and travel and fishing. I am an inventor, and have read many open-source specifications and know they are a powerful tool for aligning industry change. I am looking forward to American leadership in this next tech boom!
+
 ### Learn More:
 
 * **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
