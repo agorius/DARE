@@ -35,5 +35,5 @@ This is our chance to turn a monumental challenge into a monumental triumph. To 
 
 ### Learn More:
 
-* **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.html)
-* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](README.html)
+* **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
+* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](README.md)
