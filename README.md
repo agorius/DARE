@@ -33,8 +33,10 @@ This is our chance to turn a monumental challenge into a monumental triumph. To 
 
 ---
 
+This site is open source. Improve this page. This has been a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
+
 ### Learn More:
 
 * **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
-* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](README.md)
-* **This Grassroots summary:** [Grassroots](Grassroots.md)
+* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](DARE_Intro.md)
+* **This Grassroots summary:** [Grassroots](README.md)
