@@ -20,7 +20,7 @@ These units are designed to be compact, housed within common shipping containers
 * **Combined Heat and Power (CHP) Potential:** The original conception of DARE envisioned a Combined Heat and Power (CHP) approach. This would allow small businesses, colocated with natural gas and internet access, to disconnect from the grid, co-generate heat and power, and potentially feed both AI workloads and excess power back to the grid (net metering).
 * **Waste Heat Recovery:** Beyond cogeneration, there are significant opportunities for waste-heat recovery as DARE deployments scale. This could further enhance efficiency and sustainability.
 * **Carbon Dioxide Output as a Commodity:** CO2 can be a waste by-product, or it can be captured and repurposed as a valuable commodity for applications like greenhouse farming, where it enhances plant growth, or for industrial uses such as carbonation in beverages or chemical manufacturing. Effective carbon capture and utilization technologies can mitigate environmental impacts while creating economic opportunities.
-[1](https://www.epa.gov/natural-gas-star-program/overview-natural-gas-sector) [2](https://www.energy.gov/fecm/carbon-capture-utilization-and-storage)
+[1](https://www.epa.gov/natural-gas-star-program/overview-natural-gas-sector), [2](https://www.energy.gov/fecm/carbon-capture-utilization-and-storage)
 
 ### Open Source for Accelerated Innovation and Compatibility:
 
