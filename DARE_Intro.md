@@ -43,5 +43,5 @@ This site is open source. Improve this page. This has been a collaboration betwe
 ### Learn More:
 
 * **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
-* **This: Project Details:** [Detailed Introduction to DARE](README.md)
+* **This: Project Details:** [Detailed Introduction to DARE](DARE_Intro.md)
 * **Read the Grassroots summary:** [Grassroots](Grassroots.md)
