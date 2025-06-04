@@ -25,7 +25,7 @@ The US already leads the world in AI investment, pouring **$109 billion into pri
 
 **Let's unleash American ingenuity to create a future where our AI capabilities are powered by American hands and American innovation, ensuring our nation's prosperity and security for generations to come. The 2028 elections will showcase the job creation and economic triumphs this vision delivers.**
 
-This site is open source. Improve this page. This has been a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
+This is currently a collaboration between humans and (several) AI(s) for analysis, research, and copy-writing.
 
 ### Learn More:
 
