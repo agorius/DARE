@@ -18,7 +18,7 @@ We're talking about smart, modular data centers – basically, powerful AI hubs 
 * **Massive Savings, Big Impact:** We're talking about powering this AI revolution for a fraction of the traditional cost – saving billions. This means more resources for innovation, more investment back into our communities.
 * **Lightning-Fast Deployment:** Forget waiting years for power plants. DARE's modular system lets us deploy new energy in just **2-3 years**, keeping America ahead of the curve, especially against global competitors.
 * **Unbreakable & Efficient:** With built-in redundancy, DARE units are designed to be incredibly reliable. Plus, by placing computing power closer to where it's needed, we cut waste and make the whole system stronger and more efficient.
-* **Jobs & Economic Growth:** This isn't just about electricity; it's about igniting a **new, vital American industry**. We're talking high-paying jobs in manufacturing, installation, and maintenance, transforming our auto base into a strategic asset for the AI era and fueling robust stock market growth.
+* **Jobs & Economic Growth:** This isn't just about electricity; it's about igniting a **new, vital American industry**. We're talking high-paying jobs in manufacturing, installation, and maintenance, transforming our automotive industrial base into a strategic asset for the AI era and fueling robust American growth.
 
 This is our chance to turn a monumental challenge into a monumental triumph. To **"Make America Compute Again"** by unleashing American ingenuity.
 
