@@ -24,3 +24,9 @@ The US already leads the world in AI investment, pouring **$109 billion into pri
 * **For Lawmakers:** Fast-track the necessary regulatory frameworks to seamlessly integrate distributed power generation with our existing natural gas pipeline infrastructure. Remove barriers to rapid deployment and ensure America remains at the forefront of the AI revolution.
 
 **Let's unleash American ingenuity to create a future where our AI capabilities are powered by American hands and American innovation, ensuring our nation's prosperity and security for generations to come. The 2028 elections will showcase the job creation and economic triumphs this vision delivers.**
+
+### Learn More:
+
+* **This Executive Summary:** [DARE Executive Summary](ExecSummary.md)
+* **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](README.md)
+* **Read the Grassroots summary:** [Grassroots](Grassroots.md)
