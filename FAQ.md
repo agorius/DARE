@@ -106,6 +106,31 @@ Each 250kW module emits about 0.3 kg CO₂ per kWh, or roughly 650 metric tons a
 - **Innovation:** Open-source design fosters industry collaboration.
 
 ---
+### **FAQ: Pipeline Energy Delivery for Distributed Data Centers**
+
+#### **11. What are the long-term operational and infrastructure advantages of using natural gas pipelines for distributed data centers, compared to relying on high-voltage electricity transmission?**
+
+**Answer:**
+Natural gas pipelines offer major long-term advantages for distributed data centers, including:
+
+- **Lower Transmission Costs:** Delivering energy via pipelines costs far less than high-voltage electricity transmission—often less than \$5/MWh for pipelines versus \$40+/MWh for electricity. This difference translates into significant savings[^1].
+- **Faster Deployment:** Pipelines can be built and brought online faster than new electrical transmission lines, with some U.S. projects completed in about two years after permitting[^1].
+- **Scalability:** Pipelines can be expanded incrementally to support growing data center clusters, providing flexibility and resilience[^1][^5].
+- **Reliable Supply:** Proximity to pipelines ensures stable, on-demand access to fuel for onsite power generation, reducing reliance on the grid and mitigating risks of grid congestion or outages[^3][^6].
+- **Leveraging Existing Infrastructure:** Utilizing existing pipeline networks minimizes new infrastructure investment and speeds up deployment[^4][^6].
+
+---
+
+#### **12. Are there any significant limitations or risks associated with relying on natural gas pipelines for energy delivery to distributed data centers?**
+
+**Answer:**
+Yes, while pipelines offer many benefits, there are important risks and limitations:
+
+- **Energy Conversion Efficiency:** Natural gas must be converted to electricity at the data center site, typically using internal combustion engines or microturbines, which are less efficient than large combined-cycle plants[^3][^8].
+- **Emissions and Environmental Concerns:** Local emissions from onsite generators may require additional mitigation, and methane leakage from pipelines is a significant environmental concern[^5][^6].
+- **Regulatory and Safety Considerations:** Pipelines are subject to strict safety and environmental regulations, which can add complexity and cost[^1][^5].
+- **Dependence on Fossil Fuels:** Relying on natural gas ties data centers to fossil fuel markets and may conflict with long-term decarbonization goals[^5][^7].
+- **Maintenance and Security:** Distributed generators require robust maintenance protocols and may be vulnerable to physical or cyber threats. Modular, redundant designs can help mitigate these risks[^6][^9].
 
 *This FAQ is based on current research and engineering best practices. Specific numbers may vary based on final design and operational data.*
 
