@@ -41,6 +41,7 @@ Its not about me. Its about America. I'm just the retired High-Tech guy whose br
 
 ### Learn More:
 
-* **Read the Full Executive Summary:** [DARE Executive Summary](ExecSummary.md)
 * **Dive Deeper into the Project Details:** [Detailed Introduction to DARE](DARE_Intro.md)
-* **This Grassroots summary:** [Grassroots](README.md)
+* **This Intro and "Call to Action" summary:** [Grassroots](README.md)
+* **FAQ:** [FAQ](FAQ.md)
+  
