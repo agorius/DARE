@@ -1,18 +1,4 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# heres a list of questions about the research we just finished. can you combine the research output with these questions and create an FAQ with answers. I'll post that on github as well
-
-Engine Lifespan in Continuous Industrial Use: Investigate the expected operational lifespan of High-Volume Manufactured (HVM) automotive engines (e.g., Ford Godzilla, GM LT, Hemi, Tesla Drivetrain equivalents) when run continuously at high loads for power generation, differing from intermittent automotive use. Research existing industrial applications or conversions.
-Modifications for Durability: Determine if these HVM engines would require specific modifications or industrial hardening to achieve acceptable operational lifetimes for this application.
-Maintenance Schedules \& Costs: Develop detailed maintenance schedules and projected costs for 204,000 distributed units.
-Leveraging Automotive Service Networks: Explore the feasibility of leveraging existing automotive dealer networks or third-party service providers for maintenance and repair at scale.
-Logistics of Parts \& Technicians: Analyze the logistical challenges and solutions for distributing parts and specialized technicians across a highly distributed network.
-Thermal Efficiency of HVM Engines: Research and state the typical thermal efficiencies of these natural gas Internal Combustion Engines (ICEs) at the 250kW scale under continuous operation.
-Efficiency Comparison: Compare the HVM engine efficiencies to larger industrial gas turbines (both simple and combined cycle) to provide a complete picture of fuel consumption.
-Overall System Efficiency (CHP Impact): Discuss how the overall system efficiency, particularly with Combined Heat and Power (CHP) and waste heat recovery, impacts and potentially offsets the inherent electrical efficiency of smaller ICEs.
-
-Absolutely! Here’s a comprehensive FAQ based on your research and questions, designed for clarity and technical accuracy, suitable for sharing on GitHub:
-
 ---
 
 # DARE Project: FAQ on Engine Conversion \& Distributed Generation
@@ -122,4 +108,7 @@ Each 250kW module emits about 0.3 kg CO₂ per kWh, or roughly 650 metric tons a
 ---
 
 *This FAQ is based on current research and engineering best practices. Specific numbers may vary based on final design and operational data.*
+
+[Back to Top](README.md)
+
 
